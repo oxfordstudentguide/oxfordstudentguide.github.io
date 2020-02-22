@@ -1,36 +1,6 @@
-# collections
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    header_feature_image:
-    caption:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-    header_feature_image:
-    caption:
-- scope:
-    path: ''
-    type: recipe
-  values:
-    layout: recipe
-    order:
-
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
+url: "https://oxfordstudentguide.github.io"   #change this to yours
 title: My name or organisation # site's title
 description: "A website with a blog" # used by search engines
 
@@ -111,3 +81,12 @@ permalink: pretty
 highlighter: rouge
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
+
+# collections
+collections:
+  chapters:
+    output: true
+    title: 'Chapter'
+    description: 'Chapters for the Oxford Student Guide'
+    defaults:
+      layout: chapter
