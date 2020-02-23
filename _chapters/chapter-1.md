@@ -7,7 +7,6 @@ published: true
 description:
 ---
 
-# Getting to Know Oxford
 
 The origins of Oxford date back to the Saxon Period. **The University of Oxford** was founded in the late 12th century; it was to be the first university in England and the oldest in the wider English-speaking world.
 
@@ -205,4 +204,4 @@ Milton Keynes is a big contrast to the other four must-visit places. It was foun
 
 **Bicester Village** is an outlet shopping centre located just 20 minutes from Oxford. It offers the top designer brands at discounted prices, as well as great restaurants and eateries. It also offers part-time jobs for students! If you want to visit it you can just catch the X5 bus, which stops in the city centre or take the train (listen out for the announcements in Chinese).
 
-It's open 7 days a week. Monday - Wednesday 9am-8pm, Thursday - Saturday 9am-9pm and Sunday 10am-7pm. 
+It's open 7 days a week. Monday - Wednesday 9am-8pm, Thursday - Saturday 9am-9pm and Sunday 10am-7pm.

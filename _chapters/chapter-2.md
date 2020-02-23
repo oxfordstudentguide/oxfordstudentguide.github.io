@@ -7,8 +7,6 @@ published: true
 description:
 ---
 
-# Eating and Drinking
-
 If you fancy a bite to eat out in the city of Oxford, then the possibilities are endless! It is filled with a variety of restaurants, bistros, cafeterias, diners, bars, and pubs – all suiting different wants and needs!
 
 ## A Taste of Home
@@ -173,4 +171,4 @@ Since **The Globe** closed down **The** **Coconut Tree** has taken over their sp
 
 About 100m down from **The** **Coconut Tree** is **Be At One Cocktail Bar**, with two floors and a daily happy hour this is the perfect place for some sophisticated drinks. With over 100 cocktails to choose from there is something for someone with a sweet, spicy or more bland pallet. This is a must go place in Oxford for those refined drinkers out there.
 
-St Clements is more known for its range of pubs. These include **The Port Mahon**, which offers home-cooked food and a lively atmosphere where everyone gathers to watch Sky Sports and live music. They also put on a quiz night on Sundays from 8pm, so go along and wow everybody with your university knowledge! Other pub restaurants include **Moya**, **Angel & Greyhound** and **The Old Black Horse**. 
+St Clements is more known for its range of pubs. These include **The Port Mahon**, which offers home-cooked food and a lively atmosphere where everyone gathers to watch Sky Sports and live music. They also put on a quiz night on Sundays from 8pm, so go along and wow everybody with your university knowledge! Other pub restaurants include **Moya**, **Angel & Greyhound** and **The Old Black Horse**.

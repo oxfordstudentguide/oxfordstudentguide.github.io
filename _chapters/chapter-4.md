@@ -7,8 +7,6 @@ published: true
 description:
 ---
 
-# Sports and Health
-
 Oxford is a place teeming with people, be they newly arrived students, long-term professionals or part of the bustling tourist scene. It is a beautiful place to spend the day with a variety of attractions: a key area of which is sport.
 
 The town is filled with athletic opportunities, from sports clubs to raising money for a charity in the Oxford Half Marathon. Are you a keen athlete looking for training to take your career to the next level? Or do you just enjoy participating in sports? In the following pages you will see the variety of sporting options Oxford has to offer, with links to even more wondrous events!

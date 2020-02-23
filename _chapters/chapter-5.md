@@ -7,8 +7,6 @@ published: true
 description:
 ---
 
-# Travel and Transport
-
 Oxford is only 57 miles from London and there are many ways to travel; by train, car or bus. Oxford is a city in the South East region of England.
 
 ## Getting to Oxford
