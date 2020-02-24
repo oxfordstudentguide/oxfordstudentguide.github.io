@@ -20,7 +20,7 @@ Some 260 years later, **William Morris** started producing his famous tiny green
 
 ## Random Trivia
 
-> Oxford is steeped in history and culture. Some lesser known facts are > kept hidden away in the depths of the castle dungeons; below are a few > of the more interesting and fun ones that could be dug up...
+> Oxford is steeped in history and culture. Some lesser known facts are kept hidden away in the depths of the castle dungeons; below are a few > of the more interesting and fun ones that could be dug up...
 
 **Great Tom**, the famous bell in **Christ Church Cathedral**, strikes 101 times at 9:05pm each evening. This dates back to when the University of Oxford was founded and had 101 students, and it rang to remind each of them that the gates were about to be locked.
 
@@ -52,7 +52,11 @@ Admission to the church is free, while tickets to climb the tower are £4 for st
 
 Largely considered to mark the centre of the city, Carfax Tower is located at the junction between **Cornmarket Street**, **St Aldate’s**, **Queen Street** and the **High Street**. *Carfax* is derived from the French word meaning *crossroads*. The tower is all that remains from the 12th/13th century church that was demolished and moved to the High Street. For spectacular views it is possible to climb to the top and look across the Oxford skyline.
 
+![The clock on Carfax Tower](/uploads/DSC02626.jpg "The clock on Carfax Tower")
+
 The tower is open daily, from 10am to 5.30pm (4.30pm in October) from April to October, and 10am to 3pm (4pm in March) from November to March.
+
+![View from Carfax Tower](/uploads/DSC03358.jpg "View from Carfax Tower")
 
 Admission for students is £2.20.
 
@@ -94,7 +98,7 @@ Taking place on 30th March and running until the 7th April is the **Oxford Liter
 
 ### Cowley Road Carnival
 
-A summer party not to be missed, **Cowley Road Carnival** celebrates the diverse communities within Oxford with a colourful procession, live bands, and dancers. Venues along the street <span style="caret-color: rgb(85, 85, 85);"> provide</span> a wide selection of food and drink, whilst stalls on the roadside host a wide array of curiosities to purchase. The next Cowley Road Carnival will take place July 2020.
+A summer party not to be missed, **Cowley Road Carnival** celebrates the diverse communities within Oxford with a colourful procession, live bands, and dancers. Venues along the street provide a wide selection of food and drink, whilst stalls on the roadside host a wide array of curiosities to purchase. The next Cowley Road Carnival will take place July 2020.
 
 ### Christmas Light Festival
 
@@ -106,7 +110,7 @@ This three-day festival is a city highlight when it comes to starting off the Ch
 
 ### Common People Festival
 
-**Common People** <span style="caret-color: rgb(85, 85, 85);"></span>was an annual festival that gathered a variety of music artists showcasing both new talent and household favourites. Unfortunately May 2018 was the last time Oxford hosted the festival as the company behind it went into administration early the next year. However Oxford City Council is in talks with other festival organisers to bring an annual festival to South Park in the future. Watch this space.
+**Common People** was an annual festival that gathered a variety of music artists showcasing both new talent and household favourites. Unfortunately May 2018 was the last time Oxford hosted the festival as the company behind it went into administration early the next year. However Oxford City Council is in talks with other festival organisers to bring an annual festival to South Park in the future. Watch this space.
 
 ### Oxford Music Festival
 
