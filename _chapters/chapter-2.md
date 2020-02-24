@@ -1,12 +1,8 @@
 ---
 layout: chapter
 title: Eating and Drinking
-header_feature_image:
-excerpt_separator: <!--more-->
-published: true
 chapter: 2
 ---
-
 # Eating and Drinking
 
 If you fancy a bite to eat out in the city of Oxford, then the possibilities are endless! It is filled with a variety of restaurants, bistros, cafeterias, diners, bars, and pubs – all suiting different wants and needs!
@@ -19,31 +15,58 @@ Living in a new place can be a bit of a culture shock for international students
 
 ### For Chinese, Thai, Japanese and Korean supplies
 
--   Thong Heng, 6 Windmill Road, Headington, OX3     7BX -   Lung Wah Chong, 41-42 Hythe Bridge Street, OX1     2EP -   Jing Jing Oriental Food Store, 188 Cowley     Road, OX4 1UE -   Asian Mama Chinese food, 148 London Road, OX3     9ED -   Shanghai 30's, 82 St Aldate's Street, OX1     1RA -   Red Star Noodle Bar, 187A, Cowley Road, Oxford     OX4 1UT -   My Sichuan Restaurant, Gloucester St, Oxford     OX1 2BN -   Opium Den, 67-69 George St, City Centre,     Oxford, Ox1 2BQ -   New Dancing Dragon Bar & Restaurant, 283     Banbury Rd, Oxford, Ox2 7JF
+* Thong Heng, 6 Windmill Road, Headington, OX3 7BX Lung Wah Chong, 41-42 Hythe Bridge Street, OX1 2EP
+* Jing Jing Oriental Food Store, 188 Cowley Road, OX4 1UE
+* Asian Mama Chinese food, 148 London Road, OX3 9ED
+* Shanghai 30's, 82 St Aldate's Street, OX1 1RA
+* Red Star Noodle Bar, 187A, Cowley Road, Oxford OX4 1UT
+* My Sichuan Restaurant, Gloucester St, Oxford OX1 2BN
+* Opium Den, 67-69 George St, City Centre, Oxford, Ox1 2BQ
+* New Dancing Dragon Bar & Restaurant, 283 Banbury Rd, Oxford, Ox2 7JF
 
 ### For African, Asian and South American Supplies
 
--   Eastern and Continental Store, 152 Cowley     Road, Oxford, OX4 1JJ
+* Eastern and Continental Store, 152 Cowley Road, Oxford, OX4 1JJ
 
 ### For Polish supplies
 
--    Polish Food, 34     Cowley Road, Littlemore, OX4 4LD -   Euro Foods, 115 London Road, Headington, OX3     9HZ
+* Polish Food, 34 Cowley Road, Littlemore, OX4 4LD
+* Euro Foods, 115 London Road, Headington, OX3 9HZ
 
 ### For Mediterranean supplies
 
--   Meli Deli (Greek), 51a Cowley Road, Oxford,     OX4 1HP -   Il Principe Italian Deli, 82 Cowley Road,     Oxford, OX4 1JB
+* Meli Deli (Greek), 51a Cowley Road, Oxford, OX4 1HP
+* Il Principe Italian Deli, 82 Cowley Road,     Oxford, OX4 1JB
 
 ### For Caribbean supplies
 
--   Turtle Bay, 28 Friars Entry, Oxford OX1     2BY -    Maroc Deli, 66     Cowley Road, OX4 1JB -    Tahmid Stores,     53 Cowley Road, Oxford OX4 1HP
+* Turtle Bay, 28 Friars Entry, Oxford OX1 2BY
+* Maroc Deli, 66 Cowley Road, OX4 1JB
+* Tahmid Stores, 53 Cowley Road, Oxford OX4 1HP
 
 ## Coffee shops
 
-  - Society Cafe, 16 St Michael's St, Oxford OX1 2DU   - Queen's Lane Coffee Shop, 40 High Street, Oxford OX1 4AP   - The Handle Bar Cafe & Kitchen, 28-32 St Michael Street, Oxford OX1 2EB   - Cafe Loco, 85-87 St Aldate's, Oxford OX1 1RA    - Art Cafe, 14 Bonn Square, Oxford, OX1 1EU   - Gail's Bakery, 21-22 Little Clarendon St, Oxford OX1 2HU   - The Grand Café, 84 High St, Oxford OX1 4BG   - Vaults and Garden, University Church, 1 Radcliffe Sq, Oxford OX1 4AH   - The Missing Bean, 14 Turl St, Oxford OX1 3DQ   - G&D's, Pembroke St, Oxford OX1 1DA
+* Society Cafe, 16 St Michael's St, Oxford OX1 2DU
+* Queen's Lane Coffee Shop, 40 High Street, Oxford OX1 4AP
+* The Handle Bar Cafe & Kitchen, 28-32 St Michael Street, Oxford OX1 2EB 
+* Cafe Loco, 85-87 St Aldate's, Oxford OX1 1RA 
+* Art Cafe, 14 Bonn Square, Oxford, OX1 1EU
+* Gail's Bakery, 21-22 Little Clarendon St, Oxford OX1 2HU
+* The Grand Café, 84 High St, Oxford OX1 4BG   
+* Vaults and Garden, University Church, 1 Radcliffe Sq, Oxford OX1 4AH 
+* The Missing Bean, 14 Turl St, Oxford OX1 3DQ
+* G&D's, Pembroke St, Oxford OX1 1DA
 
 ## Patisseries
 
--   Paul, 138 High Street, Oxford OX1 4DN -   A warm, welcoming, yet sophisticated bakery     which offers quality traditional patisseries. Paul offers an     authentic French atmosphere. -   Gatineau, Summertown 209 Banbury Road, Oxford     OX2 7HQ -   An original and independent bakery in     Summertown, which offers French traditional bakeries and     bread. -   Patisserie Valerie, High Street, Oxford OX1 4BJ -   An excellent range of fresh cakes for all occasions and various     individual treats. -   Ole & Steen, 123 Queen St, Oxford OX1 1PB -   Danish bakery that serves a menu that ranges from breakfast to     supper. Caters both your eating and aesthetic needs.
+* Paul, 138 High Street, Oxford OX1 4DN
+* A warm, welcoming, yet sophisticated bakery
+* which offers quality traditional patisseries. Paul offers an authentic French atmosphere
+* Gatineau, Summertown 209 Banbury Road, Oxford OX2 7HQ
+* An original and independent bakery in     Summertown, which offers French traditional bakeries and     bread
+* Patisserie Valerie, High Street, Oxford OX1 4BJ
+* An excellent range of fresh cakes for all occasions and various     individual treats. -   Ole & Steen, 123 Queen St, Oxford OX1 1PB
+* Danish bakery that serves a menu that ranges from breakfast to supper. Caters both your eating and aesthetic needs.
 
 ## A Taste of Britain
 
@@ -71,9 +94,9 @@ A pot of tea served with a selection of savoury sandwiches, sweets scones (with 
 
 The city centre is a great place to start if you’re looking for a place to drink and dine in a central location. George Street is lined with restaurants and pubs: for upmarket dining visit **Jamie’s Italian**, a restaurant owned by celebrity chef Jamie Oliver. Although slightly pricier, it is still affordable so could be a great place to impress a date without breaking the bank, and it has deliciously fresh and filling food. Alternatively, there are many other Italian restaurants located on George Street such as **Bella Italia** and **Zizzi Ristorante**, which offer similarly priced food. If you are having to keep a tight reign on the budget then you can cheat a little bit and take yourself off to **Pizza Hut**;located at 61-63 George Street, alternatively, **Franco Manca** found on 12 George Street has a great ambience at a great price.
 
-Gloucester Green in city centre has open air markets operating Wednesday, Thursday and Saturday that offer various ranges of cuisines for example, Chinese, Mexican, Italian and Indian foods. Surrounding the market is numerous restaurants including **El Mexicana**, **Noodle Nation** and **Buongiorno e Buonasera
+Gloucester Green in city centre has open air markets operating Wednesday, Thursday and Saturday that offer various ranges of cuisines for example, Chinese, Mexican, Italian and Indian foods. Surrounding the market is numerous restaurants including **El Mexicana**, **Noodle Nation** and \*\*Buongiorno e Buonasera
 
-**For independent Italian restaurants the **White Rabbit** is worth a mention, the cosy, quaint pub, come Italian diner serves up delicious wood fired pizzas, at a very student friendly price. Run by a group of students in their twenties, it's been voted the best pizza in Oxford and is well worth the visit.
+**For independent Italian restaurants the** White Rabbit\*\* is worth a mention, the cosy, quaint pub, come Italian diner serves up delicious wood fired pizzas, at a very student friendly price. Run by a group of students in their twenties, it's been voted the best pizza in Oxford and is well worth the visit.
 
 Located both in town, down Cowley Road and in Headington **Buongiorno E Buonasera** offers fresh Italian food, drinks, desserts and deli items in a warm and friendly environment. Whether it's a slice of your favourite pizza or a sit down meal, you'll often find the Italian societies meeting here.
 
@@ -141,7 +164,7 @@ Another vegan-friendly place is the **Beetroot Pantry** and its joint café - he
 
 **Jin Jin** Located on the Cowley Road, it's Chinese food is a favourite of the local students. The friendly staff and delicious aromatic food makes it one-to visit. The restaurant is unpretentious and it's modest nature allows the food to speak for itself.
 
- ### Pubs and Bars
+### Pubs and Bars
 
 We can’t forget the horde of pubs and bars lining the streets. Right at the beginning of Cowley Road is the popular **City Arms**, which boasts a wide range of events to ensure you’ll never have a dull night. With £1-a-pint-nights, live music and pub quizzes, it is a pub that can easily be described as having a student atmosphere. If you’re a sports fan then the HD and 3D plasma TVs that host live sport will probably be of interest to you – as well as the pool table, football table and air hockey located in the heart of the pub.
 
