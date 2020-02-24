@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Getting to Know Oxford
-header_feature_image:
 excerpt_separator: <!--do-not-remove-this-->
 chapter: 1
 ---
@@ -39,7 +38,7 @@ Every member of the world famous Bodleian Library must swear an oath not to ligh
 
 Scenes from Hollywood blockbuster movies have been filmed in Oxford, including: *The Golden Compass*, *Harry Potter,* *Transformers: The Last Knight* and most recently, *Tolkien.
 
-*## Sights and Places of Interest
+## Sights and Places of Interest
 
 ### University Church of St Mary the Virgin
 
@@ -109,7 +108,7 @@ This three-day festival is a city highlight when it comes to starting off the Ch
 
 **Common People** <span style="caret-color: rgb(85, 85, 85);"></span>was an annual festival that gathered a variety of music artists showcasing both new talent and household favourites. Unfortunately May 2018 was the last time Oxford hosted the festival as the company behind it went into administration early the next year. However Oxford City Council is in talks with other festival organisers to bring an annual festival to South Park in the future. Watch this space.
 
- ### Oxford Music Festival
+### Oxford Music Festival
 
 **Oxford Music Festival** offers a number of classes and performances, aimed at providing young, aspiring musicians with a chance to learn from experienced individuals and perform in front of large crowds. Taking place in January and February at the **Jacqueline du Pré Music Building**, alongside other venues, the various shows and performances are open to the public, although participation requires carrying out an online application.
 
@@ -151,7 +150,7 @@ Whilst this seems an unusual choice for a student guide, **The Story Museum** is
 
 42 Pembroke Street, Oxford, OX1 1BP; admission is £7.50, students £5. It is open Tuesday to Saturday from 10am - 5pm and on Sunday from 11am - 4pm
 
- ## Galleries
+## Galleries
 
 ### Christ Church Picture Gallery
 
@@ -195,7 +194,11 @@ Chipping Norton is at the gateway to the **Cotswolds** and is a highly popular t
 
 ### Stratford-upon-Avon
 
-Stratford-upon-Avon is an essential visit. The birthplace of *Shakespeare* offers a multitude of things to do. You can take in a play at the **Royal Shakespeare Theatre** or do a brass rubbing at the local centre; but if you would like a more weird yet wonderful place to visit then try **The MAD museum (The Museum of Mechanical Art and Design)**. Later on in the day, ghost walks take place in the city with tales of local witches, murders and mysteries. **Student Alert!**: The Royal Shakespeare Company runs a scheme for those aged 16-25 , called **The RSC Key**, which is completely free to join and entitles you to a range of benefits, including £5 theatre tickets. If you are a student, but not aged 16-25, the company still offers benefits including cheap coach trips to see a selection of productions. In Oxford, these trips leave from the Taylorian Institute. RSC Key: https://www.rsc.org.uk/support/rsc-key/ Student section: https://www.rsc.org.uk/students-and-young-people/students
+Stratford-upon-Avon is an essential visit. The birthplace of *Shakespeare* offers a multitude of things to do. You can take in a play at the **Royal Shakespeare Theatre** or do a brass rubbing at the local centre; but if you would like a more weird yet wonderful place to visit then try **The MAD museum (The Museum of Mechanical Art and Design)**. Later on in the day, ghost walks take place in the city with tales of local witches, murders and mysteries. **Student Alert!**: The Royal Shakespeare Company runs a scheme for those aged 16-25 , called **The RSC Key**, which is completely free to join and entitles you to a range of benefits, including £5 theatre tickets. If you are a student, but not aged 16-25, the company still offers benefits including cheap coach trips to see a selection of productions. In Oxford, these trips leave from the Taylorian Institute. 
+
+RSC Key: <https://www.rsc.org.uk/support/rsc-key/> 
+
+Student section: <https://www.rsc.org.uk/students-and-young-people/students>
 
 ### Milton Keynes
 
