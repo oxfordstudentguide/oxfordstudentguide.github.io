@@ -1,13 +1,15 @@
 ---
 layout: chapter
 title: Eating and Drinking
+header_feature_image:
+excerpt_separator: <!--do-not-remove-this-->
 chapter: 2
 ---
 # Eating and Drinking
 
 If you fancy a bite to eat out in the city of Oxford, then the possibilities are endless! It is filled with a variety of restaurants, bistros, cafeterias, diners, bars, and pubs – all suiting different wants and needs!
 
-<!--more-->
+<!--do-not-remove-this-->
 
 ## A Taste of Home
 
@@ -48,12 +50,12 @@ Living in a new place can be a bit of a culture shock for international students
 
 * Society Cafe, 16 St Michael's St, Oxford OX1 2DU
 * Queen's Lane Coffee Shop, 40 High Street, Oxford OX1 4AP
-* The Handle Bar Cafe & Kitchen, 28-32 St Michael Street, Oxford OX1 2EB 
-* Cafe Loco, 85-87 St Aldate's, Oxford OX1 1RA 
+* The Handle Bar Cafe & Kitchen, 28-32 St Michael Street, Oxford OX1 2EB
+* Cafe Loco, 85-87 St Aldate's, Oxford OX1 1RA
 * Art Cafe, 14 Bonn Square, Oxford, OX1 1EU
 * Gail's Bakery, 21-22 Little Clarendon St, Oxford OX1 2HU
-* The Grand Café, 84 High St, Oxford OX1 4BG   
-* Vaults and Garden, University Church, 1 Radcliffe Sq, Oxford OX1 4AH 
+* The Grand Café, 84 High St, Oxford OX1 4BG
+* Vaults and Garden, University Church, 1 Radcliffe Sq, Oxford OX1 4AH
 * The Missing Bean, 14 Turl St, Oxford OX1 3DQ
 * G&D's, Pembroke St, Oxford OX1 1DA
 

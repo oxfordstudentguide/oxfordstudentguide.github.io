@@ -2,15 +2,14 @@
 layout: chapter
 title: Arts and Culture
 header_feature_image:
-excerpt_separator: <!--more-->
-published: true
+excerpt_separator: <!--do-not-remove-this-->
 chapter: 3
 ---
 # Arts and Culture
 
 Oxford boasts most of the high street and designer shops that we know and love in the UK but, unusually, it also has a host of individual shops that you will only find here! Along with these there are a range of markets that take place either weekly or monthly. Oxford Fashion Week is also held in venues around the city so don’t worry if you can’t make it to London or Paris – we have our very own! For those interested in entertainment, there is plenty of choice here in Oxford, ranging from cinemas and theatres to music venues and events and a buzzing student nightlife.
 
-<!--more-->
+<!--do-not-remove-this-->
 
 ## Cinemas
 

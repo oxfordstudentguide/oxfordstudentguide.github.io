@@ -2,15 +2,14 @@
 layout: chapter
 title: Getting to Know Oxford
 header_feature_image:
-excerpt_separator: <!--more-->
-published: true
+excerpt_separator: <!--do-not-remove-this-->
 chapter: 1
 ---
 # Getting to Know Oxford
 
 The origins of Oxford date back to the Saxon Period. **The University of Oxford** was founded in the late 12th century; it was to be the first university in England and the oldest in the wider English-speaking world.
 
-<!--more-->
+<!--do-not-remove-this-->
 
 In February 1355, tension between the academics and local people grew, as the town vs. gown conflicts peaked in the *St Scholastica Day Riot*. What started out as a casual pub brawl ended in around 90 deaths of both scholars and townsfolk.
 

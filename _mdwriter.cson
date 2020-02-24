@@ -59,7 +59,7 @@ date: {date}
 published: false
 header_feature_image:
 caption:
-pinned: 
+pinned:
 tags:    # use [tag1,tag2]
 ---
 """
@@ -208,7 +208,7 @@ lineStyles:
 # image tag template should I add the root
 # adding link to self so that it enlarges
 
-imageTag: "[![{alt}](\/{src})](\/{src})"
+imageTag: "![{alt}](\/{src})"
 # use relative path to image from the opened file
 relativeImagePath: false
 # rename copyed image based on title/alt
@@ -242,4 +242,4 @@ foldInlineLinks: false
 templateVariables:
   # Bullet for unordered list. add ulBullet1, ulBullet2 if you want different bullet for nested list
   # https://github.com/zhuochun/md-writer/wiki/Settings#use-different-unorder-list
-  ulBullet: "-"
+  ulBullet: "*"

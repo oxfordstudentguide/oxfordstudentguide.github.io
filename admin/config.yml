@@ -26,6 +26,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapter"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "header_feature_image", widget: "image", required: false}
-      - {label: "Caption", name: "caption", widget: "string", required: false}
+      - {label: "Excerpt Finish", name: "excerpt_separator", widget: "hidden", default: "<!--do-not-remove-this-->"}
       - {label: "Chapter", name: "chapter", widget: "number", required: true, valueType: "int"}
       - {label: "Body", name: "body", widget: "markdown"}
