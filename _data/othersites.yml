@@ -1,6 +1,6 @@
-- name: # here is the name of your other site
-  siteurl: # the url can be full (maybe your other blog)
-- name: 
+- name: Editor
+  siteurl: /admin/
+- name:
   siteurl:
 - name:
   siteurl:
