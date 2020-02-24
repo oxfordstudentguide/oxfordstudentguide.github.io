@@ -1,4 +1,5 @@
 ---
+layout: chapter
 title: Quotes about Oxford
 chapter: 6
 ---
