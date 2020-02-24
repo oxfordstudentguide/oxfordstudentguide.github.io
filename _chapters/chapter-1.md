@@ -52,7 +52,11 @@ Admission to the church is free, while tickets to climb the tower are £4 for st
 
 Largely considered to mark the centre of the city, Carfax Tower is located at the junction between **Cornmarket Street**, **St Aldate’s**, **Queen Street** and the **High Street**. *Carfax* is derived from the French word meaning *crossroads*. The tower is all that remains from the 12th/13th century church that was demolished and moved to the High Street. For spectacular views it is possible to climb to the top and look across the Oxford skyline.
 
+![The clock on Carfax Tower](/uploads/DSC02626.jpg "The clock on Carfax Tower")
+
 The tower is open daily, from 10am to 5.30pm (4.30pm in October) from April to October, and 10am to 3pm (4pm in March) from November to March.
+
+![View from Carfax Tower](/uploads/DSC03358.jpg "View from Carfax Tower")
 
 Admission for students is £2.20.
 
