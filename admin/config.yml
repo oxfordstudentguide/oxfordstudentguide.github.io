@@ -27,5 +27,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "header_feature_image", widget: "image", required: false}
       - {label: "Caption", name: "caption", widget: "string", required: false}
-      - {label: "Chapter", name: "chapter", widget: "number", required: true}, valueType: "int"
+      - {label: "Chapter", name: "chapter", widget: "number", required: true, valueType: "int"}
       - {label: "Body", name: "body", widget: "markdown"}
