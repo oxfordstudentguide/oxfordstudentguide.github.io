@@ -1261,3 +1261,9 @@ p.chapternumber {
 .excerpt h1, .post-content h1 {
   display: none;
 }
+
+
+.caption {
+  border-bottom: 1px solid silver;
+  font-size: .8em;
+}
