@@ -1,13 +1,17 @@
 ---
 layout: chapter
-title: Chapter 2
-subtitle: Eating and Drinking
+title: Eating and Drinking
 header_feature_image:
+excerpt_separator: <!--more-->
 published: true
-description:
+chapter: 2
 ---
 
+# Eating and Drinking
+
 If you fancy a bite to eat out in the city of Oxford, then the possibilities are endless! It is filled with a variety of restaurants, bistros, cafeterias, diners, bars, and pubs – all suiting different wants and needs!
+
+<!--more-->
 
 ## A Taste of Home
 

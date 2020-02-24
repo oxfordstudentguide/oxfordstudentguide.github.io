@@ -1,6 +1,6 @@
 <div class="posts">
-  {%- assign chapters = site.chapters | sort: 'title' -%}
-    {% for chapter in chapters | sort: "title" %}
+  {%- assign chapters = site.chapters -%}
+    {% for chapter in chapters | sort: "chapter" %}
     <div class="post-teaser">
         {% if post.header_feature_image %}
         {% assign image_url = post.header_feature_image | replace: "_uploads", "uploads" -%}
@@ -17,15 +17,16 @@
         {% endif %}
         <span>
           <header>
+            <p class="chapternumber">Chapter {{ chapter.chapter }}</p> 
             <h1>
               <a aria-label="{{ chapter.title }}" class="post-link" href="{{ chapter.url | relative_url }}">
-                {{ chapter.title }} | {{ chapter.subtitle }}
+                {{ chapter.title }}
               </a>
             </h1>
             <!-- {% include post_info.html post=post %} -->
           </header>
           <div class="excerpt">
-              {{ chapter.excerpt | strip_html | escape }}
+              {{ chapter.excerpt }}
           </div>
       </span>
     </div>
