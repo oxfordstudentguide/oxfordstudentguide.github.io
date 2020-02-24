@@ -1,5 +1,5 @@
 ---
-title: '# Quotes about Oxford'
+title: Quotes about Oxford
 chapter: 6
 ---
 # Quotes about Oxford
