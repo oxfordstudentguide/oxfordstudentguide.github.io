@@ -20,7 +20,7 @@ Some 260 years later, **William Morris** started producing his famous tiny green
 
 ## Random Trivia
 
-> Oxford is steeped in history and culture. Some lesser known facts are kept hidden away in the depths of the castle dungeons; below are a few > of the more interesting and fun ones that could be dug up...
+> Oxford is steeped in history and culture. Some lesser known facts are kept hidden away in the depths of the castle dungeons; below are a few of the more interesting and fun ones that could be dug up...
 
 **Great Tom**, the famous bell in **Christ Church Cathedral**, strikes 101 times at 9:05pm each evening. This dates back to when the University of Oxford was founded and had 101 students, and it rang to remind each of them that the gates were about to be locked.
 
@@ -36,7 +36,7 @@ Oxford is also well-known for its famous detective, *Morse*. Colin Dexter did no
 
 Every member of the world famous Bodleian Library must swear an oath not to light a fire within its walls!
 
-Scenes from Hollywood blockbuster movies have been filmed in Oxford, including: *The Golden Compass*, *Harry Potter,* *Transformers: The Last Knight* and most recently, *Tolkien.
+Scenes from Hollywood blockbuster movies have been filmed in Oxford, including: *The Golden Compass*, *Harry Potter,* *Transformers: The Last Knight* and most recently, Tolkien.
 
 ## Sights and Places of Interest
 
