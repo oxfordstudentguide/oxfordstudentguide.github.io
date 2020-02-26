@@ -84,7 +84,7 @@ Access through **Catte St** from **High St**; Term Time: Mon-Fri 9.00am-10.00pm,
 
 This annual event is very popular in Oxford. Thousands of people make their way to **South Park** to watch not only a vast display of fireworks but also a large bonfire, live music, a fun fair and local food stalls.
 
-Held in South Park annually on the first Saturday of<span style="caret-color: rgb(85, 85, 85);"></span> November. The next display will take place on Saturday 2nd November 2019.
+Held in South Park annually on the first Saturday of November. The next display will take place on Saturday 2nd November 2019.
 
 ### May Morning
 
