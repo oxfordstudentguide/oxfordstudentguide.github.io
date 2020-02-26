@@ -3,10 +3,11 @@ backend:
   repo:  oxfordstudentguide/oxfordstudentguide.github.io
   branch: master # Branch to update (master by default)
   base_url:  https://intriguing-break-7p66rwu47u.glitch.me
+  open_authoring: true
 
 show_preview_links: false
 publish_mode: editorial_workflow
-open_authoring: true
+
 
 
 # This line should *not* be indented
