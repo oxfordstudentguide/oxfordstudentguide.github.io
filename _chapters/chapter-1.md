@@ -94,7 +94,7 @@ Pedestrians can gather on **Magdalen Bridge**, which will be closed to traffic. 
 
 ### Oxford Literary Festival
 
-Taking place on 30th March and running until the 7th April is the **Oxford Literary Festival**. During this week, over 250 events take place, celebrating the rich literary heritage of Oxford and showcasing a number of debates, discussions, courses and talks relating to the world of literature. Admission fees vary, although some events are free of charge.
+Taking place on at the end of March and running until the the first week of April is the **Oxford Literary Festival**. During this week, over 250 events take place, celebrating the rich literary heritage of Oxford and showcasing a number of debates, discussions, courses and talks relating to the world of literature. Admission fees vary, although some events are free of charge.
 
 ### Cowley Road Carnival
 
