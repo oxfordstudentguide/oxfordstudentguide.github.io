@@ -68,7 +68,7 @@ The castle was initially developed back in 1071 for **William the Conqueror** bu
 
 As one of the largest Oxford colleges with the *Cathedral Church* for the Diocese of Oxford, **Christ Church** is one of the most visited places in the city. Founded by Cardinal Wolsey in 1525, the buildings were originally named *Cardinal College*, but in 1546 they were renamed as *Christ Church* by **King Henry VIII**. Known for its many famous alumni, as well as being filmed for scenes, most notably **The Great Hall** in the *Harry Potter* films. This is also where Lewis Carroll met Alice Liddell, the daughter of a Dean at Christ Church and his inspiration for *Alice's Adventures in Wonderland*. The Cathedral and Gallery are not to be missed.
 
-Open all year round except Christmas Day.
+Open all year round except Christmas Day and Good Friday.
 
 Ticket prices vary throughout the year, but students receive a discount with valid ID. The Hall is often closed between 11:40am and 2:30pm.
 
