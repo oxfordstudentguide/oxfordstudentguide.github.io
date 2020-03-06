@@ -3,11 +3,11 @@ layout: default
 ---
 <article {% if page.header_feature_image %}class="feature-image"{% endif %}>
   <header id="main">
-      <p id="chapter{{ page.chapter }}" class="chapternumber">Chapter {{ page.chapter }}</p>
+      <p id="chapter{{ page.chapter }}" class="chapternumber">Chapter {{ page.chapter }} <a class="editlink" title="With permission through GitHub" href="/admin/#/edit{{ page.url }}">Edit this chapter</a></p>
       <h1 id="{{ page.title }}" class="title">{{ page.title }}</h1>
   </header>
   <section class="post-content">
-      {{ content | replace: "_uploads", "uploads" }}
+      {{ content }}
   </section>
 </article>
 
