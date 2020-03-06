@@ -16,7 +16,7 @@ The next event worth knowing took place during the **English Civil War**, when O
 
 Some 260 years later, **William Morris** started producing his famous tiny green cars in the city’s factories and Oxford proved itself to be invaluable as an industrial city too.
 
-**Note:** This is not the same William Morris who founded the Kelmscott Press.
+**Note:** This is not the same **William Morris** who founded the *Kelmscott Press*.
 
 ## Random Trivia
 
@@ -84,7 +84,7 @@ Access through **Catte St** from **High St**; Term Time: Mon-Fri 9.00am-10.00pm,
 
 This annual event is very popular in Oxford. Thousands of people make their way to **South Park** to watch not only a vast display of fireworks but also a large bonfire, live music, a fun fair and local food stalls.
 
-Held in South Park annually on the first Saturday of<span style="caret-color: rgb(85, 85, 85);"></span> November. The next display will take place on Saturday 2nd November 2019.
+Held in South Park annually on the first Saturday of November. The next display will take place on Saturday 2nd November 2019.
 
 ### May Morning
 
@@ -94,7 +94,7 @@ Pedestrians can gather on **Magdalen Bridge**, which will be closed to traffic. 
 
 ### Oxford Literary Festival
 
-Taking place on 30th March and running until the 7th April is the **Oxford Literary Festival**. During this week, over 250 events take place, celebrating the rich literary heritage of Oxford and showcasing a number of debates, discussions, courses and talks relating to the world of literature. Admission fees vary, although some events are free of charge.
+Taking place on at the end of March and running until the the first week of April is the **Oxford Literary Festival**. During this week, over 250 events take place, celebrating the rich literary heritage of Oxford and showcasing a number of debates, discussions, courses and talks relating to the world of literature. Admission fees vary, although some events are free of charge.
 
 ### Cowley Road Carnival
 
