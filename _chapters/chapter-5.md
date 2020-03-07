@@ -1,11 +1,10 @@
 ---
 layout: chapter
 title: Travel and Transport
-header_feature_image:
+header_feature_image: null
 excerpt_separator: <!--do-not-remove-this-->
 chapter: 5
 ---
-
 # Travel and Transport
 
 Oxford is only 57 miles from London and there are many ways to travel; by train, car or bus. Oxford is a city in the South East region of England.
@@ -66,6 +65,8 @@ All the streets of the city centre, including the small and narrow, are pedestri
 
 Many students use bicycles to get around and, as in Amsterdam or Copenhagen, there are thousands of them. Although there are many cycle lanes, they do share the road with other motorists. Extra care should be taken cycling around buses which have blind spots where cyclists cannot be seen. Never cycle past on the inside of buses or lorries.
 
+![Bike in Oxford](/uploads/metin-ozer-2hwowscdwla-unsplash.jpg "Photo by Metin Ozer on Unsplash")
+
 The familiar sight of cyclists to local drivers makes cycling safer than other towns, but many accidents happen each year, often due to dangerous cycling. If you are thinking of cycling in the UK, make sure you are familiar with the UK Highway Code for cyclists as laws do apply. It is also vital that you use lights at night; local police frequently set up checkpoints and there is a fine for cycling without lights. Bike parking is available everywhere, just be sure to buy a strong lock to keep it safe, and don’t leave anything valuable on the bike.
 
 The best information can be found on the Cycle into Oxford map, available from the tourist office (15 Broad Street Oxford, OX1 3AS), which shows all local cycle routes.
@@ -98,7 +99,13 @@ Oxford also now offers Uber as an option for cheap taxis. You can download the a
 
 ### Taxi Contact Numbers
 
--   ABC Radio Taxis: 01865 770077 / 01865 242424 -   001 Taxis: 01865 240000 / app available for     iOS and Android -   A2B Oxford Taxi: 01865 477777 / 01865 477477 /     app available for iOS and Android -   Royal Cars: 01865 777333 / app available for     iOS and Android -   Oxford Cars: 01865 406070 / 01865     406080 -   Elite Cars: 01865 250500< -   Go Green Taxis: 01865 922222 / app available     for iOS
+* ABC Radio Taxis: 01865 770077 / 01865 242424 
+* 001 Taxis: 01865 240000 / app available for iOS and Android 
+* A2B Oxford Taxi: 01865 477777 / 01865 477477 / app available for iOS and Android
+* Royal Cars: 01865 777333 / app available for iOS and Android 
+* Oxford Cars: 01865 406070 / 01865 406080
+* Elite Cars: 01865 250500
+* Go Green Taxis: 01865 922222 / app available for iOS
 
 ## Day Trips and National Travel
 
@@ -110,7 +117,7 @@ One of the great things about living in Oxford is its proximity to London. The O
 
 Runs every 15-30 minutes to Victoria coach station (Cost - return £14 for young people or £19 for adults. Approx. duration - 1½ hours). (Cost for Brookes student card holders only £10 for a 3 month period return). [www.oxfordtube.com](http://www.oxfordtube.com)
 
- ## More Bus Routes
+## More Bus Routes
 
 **National Express** has direct buses to Birmingham (Cost - £6 - £13.70. Duration - 1 1/2-3 hours). One service a day to Bristol (Cost - £5 - £14. Duration - 3 hours). Again these services start their journey at Gloucester Green bus station. The price of your journey depends on the time of day and how far in advance you book. For students, you can easily save money on **National Express** through either an **NUS Extra** card or a **Young Persons Coachcard**. No matter your age, as long as you are a student, you can apply for an NUS Extra card which will, for a limited time, give you 20% off travel with **National Express.** If you are aged 16-26 and/or are a full-time student, you can buy a **Young Persons Coachcard,** which only costs £12.50 for 1 year or £30 for 3 years. This will give you a 1/3 off standard fares including peak and off-peak times, weekends, bank and public holidays. This card also entitles you to 10% off travel for events and festivals.
 
