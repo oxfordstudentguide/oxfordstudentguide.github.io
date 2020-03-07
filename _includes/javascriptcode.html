@@ -19,7 +19,7 @@
 
 <script>
 $(".post-content img").each(function() {
-    var imageCaption = $(this).attr("alt");
+    var imageCaption = $(this).attr("title");
     if (imageCaption != '') {
         $("<span class='caption'>" + imageCaption +
             "</span>").insertAfter(this);
