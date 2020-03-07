@@ -65,6 +65,8 @@ All the streets of the city centre, including the small and narrow, are pedestri
 
 Many students use bicycles to get around and, as in Amsterdam or Copenhagen, there are thousands of them. Although there are many cycle lanes, they do share the road with other motorists. Extra care should be taken cycling around buses which have blind spots where cyclists cannot be seen. Never cycle past on the inside of buses or lorries.
 
+![Bike in Oxford](/uploads/metin-ozer-2hwowscdwla-unsplash.jpg "Photo by Metin Ozer on Unsplash")
+
 The familiar sight of cyclists to local drivers makes cycling safer than other towns, but many accidents happen each year, often due to dangerous cycling. If you are thinking of cycling in the UK, make sure you are familiar with the UK Highway Code for cyclists as laws do apply. It is also vital that you use lights at night; local police frequently set up checkpoints and there is a fine for cycling without lights. Bike parking is available everywhere, just be sure to buy a strong lock to keep it safe, and don’t leave anything valuable on the bike.
 
 The best information can be found on the Cycle into Oxford map, available from the tourist office (15 Broad Street Oxford, OX1 3AS), which shows all local cycle routes.
