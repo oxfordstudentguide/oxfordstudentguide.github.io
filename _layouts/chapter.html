@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
-<article id="page-content" {% if page.header_feature_image %}class="feature-image"{% endif %}>
+<article {% if page.header_feature_image %}class="feature-image"{% endif %}>
   <header id="main">
 
       <p id="chapter{{ page.chapter }}" class="chapternumber">Chapter {{ page.chapter }} <span id="user"></span></p>
       <h1 id="{{ page.title }}" class="title">{{ page.title }}</h1>
   </header>
-  <section class="post-content">
+  <section id="page-content" class="post-content">
       {{ content }}
   </section>
 
-
+  <p>
+  <a class="word-export word" href="javascript:void(0)">Export as a Word.doc </a>
+  </p>
 </article>
-<a class="word-export" href="javascript:void(0)"> Export as .doc </a>
 <!-- Disqus -->
 {% if site.disqus_shortname %}
 <div class="comments">

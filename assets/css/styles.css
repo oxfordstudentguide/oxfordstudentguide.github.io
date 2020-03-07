@@ -1279,8 +1279,18 @@ p.chapternumber {
   bottom: 3px;
 }
 
- a.editlink:hover {
+ a.editlink:hover, a.word:hover {
   text-decoration: none;
   background: #b5af21;
   color: white;
+}
+
+a.word {
+  margin: 0 auto;
+  display:block;
+  font-size: .8em;
+  color: white;
+  background: #d15e2d;
+  padding:3px;
+  width:50%;
 }
