@@ -26,3 +26,10 @@ $(".post-content img").each(function() {
     }
 });
 </script>
+
+<script>
+  if (localStorage.getItem("netlify-cms-user") != '') {
+  var theuser = JSON.parse(localStorage.getItem("netlify-cms-user")).name;
+  $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/edit{{ page.url }}'>" + theuser + " can edit this Chapter" + "</a>");
+}
+</script>
