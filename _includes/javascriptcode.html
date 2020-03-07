@@ -33,3 +33,10 @@ $(".post-content img").each(function() {
   $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/edit{{ page.url }}'>" + theuser + " can edit this Chapter" + "</a>");
 }
 </script>
+<script>
+jQuery(document).ready(function($) {
+  $("a.word-export").click(function(event) {
+    $("#page-content").wordExport();
+  });
+});
+</script>
