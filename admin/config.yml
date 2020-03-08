@@ -3,13 +3,12 @@ backend:
   repo:  oxfordstudentguide/oxfordstudentguide.github.io
   branch: master # Branch to update (master by default)
   base_url:  https://intriguing-break-7p66rwu47u.glitch.me
-  display_url: https://oxfordstudentguide.github.io
-  logo_url: https://oxfordstudentguide.github.io/assets/img/logo.png
   open_authoring: true
 
 show_preview_links: false
 publish_mode: editorial_workflow
-
+display_url: https://oxfordstudentguide.github.io
+logo_url: https://oxfordstudentguide.github.io/assets/img/logo.png
 
 
 # This line should *not* be indented
@@ -20,8 +19,10 @@ collections:
   - name: "chapters" # Used in routes, e.g., /admin/collections/blog
     label: "Chapters" # Used in the UI
     label_singular: "Chapter"
+    description: "Select a chapter from this list to edit. Once you complete editing click the SAVE button."
     folder: "_chapters/" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
+    delete: false
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     media_folder: "/uploads"
     public_folder: "/uploads"
