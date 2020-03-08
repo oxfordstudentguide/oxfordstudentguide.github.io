@@ -8,7 +8,7 @@ backend:
 show_preview_links: false
 publish_mode: editorial_workflow
 display_url: https://oxfordstudentguide.github.io
-logo_url: https://oxfordstudentguide.github.io/assets/img/logo.png
+logo_url: https://oxfordstudentguide.github.io/assets/img/oxlogo.png
 
 
 # This line should *not* be indented
