@@ -1272,7 +1272,7 @@ p.chapternumber {
 .editlink {
   font-size: .5em;
   color: white;
-  background: #d15e2d;
+  background: #a76cb4;
   padding:3px;
   margin-left: 30px;
   position: relative;
@@ -1281,7 +1281,7 @@ p.chapternumber {
 
  a.editlink:hover, a.word:hover {
   text-decoration: none;
-  background: #b5af21;
+  background: #742f71;
   color: white;
 }
 

@@ -19,7 +19,7 @@ collections:
   - name: "chapters" # Used in routes, e.g., /admin/collections/blog
     label: "Chapters" # Used in the UI
     label_singular: "Chapter"
-    description: "Select a chapter from this list to edit. Once you complete editing click the SAVE button."
+    description: "Select a chapter from this list to edit. Once you complete editing click the SAVE button and then set the status to 'In Review'"
     folder: "_chapters/" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     delete: false
