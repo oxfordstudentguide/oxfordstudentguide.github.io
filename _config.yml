@@ -7,7 +7,7 @@ description: "A website with a blog" # used by search engines
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar: assets/img/logo.png
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
