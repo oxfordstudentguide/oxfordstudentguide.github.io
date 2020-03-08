@@ -16,7 +16,7 @@ The next event worth knowing took place during the **English Civil War**, when O
 
 Some 260 years later, **William Morris** started producing his famous tiny green cars in the city’s factories and Oxford proved itself to be invaluable as an industrial city too.
 
-**Note:** This is not the same **William Morris** who founded the *Kelmscott Press*.
+**Note:** This is not the same William Morris who founded the *Kelmscott Press*.
 
 ## Random Trivia
 
